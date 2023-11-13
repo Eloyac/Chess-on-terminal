@@ -28,9 +28,10 @@ El juego continúa hasta que un jugador logra jaque mate al rey del oponente.
 <h3>Controles del juego</h3>
 Durante cada turno, el programa solicitará al jugador en turno que ingrese la pieza que desea mover y las coordenadas de movimiento.
 
-<h4>Esperamos que disfrutes jugando al ajedrez. ¡Buena suerte!      </h4>                                                                                                                       
-                                                                                                                                          
-https://github.com/Eloyac/Chess-on-terminal/assets/80268281/49ea93f3-2277-4f84-ad17-9fb516905afd
+<h4>Esperamos que disfrutes jugando al ajedrez. ¡Buena suerte!      </h4>                                                                                                                  
+
+https://github.com/Eloyac/Chess-on-terminal/assets/80268281/60257fd9-0280-496d-891b-ba3c80030bd0
+
 
                                                                                                                               
                                                                                                                                           
