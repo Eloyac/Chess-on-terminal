@@ -7,30 +7,30 @@ Y8b  d8 88   88 88.     db   8D db   8D      `8b  d8' 88  V888         88    88.
  `Y88P' YP   YP Y88888P `8888Y' `8888Y'       `Y88P'  VP   V8P         YP    Y88888P 88   YD YP  YP  YP Y888888P VP   V8P YP   YP Y88888P
 -->
 
-Este es un juego de ajedrez simple implementado en C++. El juego se ejecuta en la consola y permite a dos jugadores mover piezas en un tablero de ajedrez.
+This is a simple chess game implemented in C++. The game runs in the console and allows two players to move pieces on a chessboard.
 
-<h3>Requisitos previos</h3>
+<h3>Prerequisites</h3>
 
-Asegúrate de tener un compilador de C++ instalado en tu sistema antes de ejecutar el juego.
+Make sure you have a C++ compiler installed on your system before running the game.
 
-<h3>Instrucciones de instalación y ejecución</h3>
+<h3>Installation and Execution Instructions</h3>
 
-Clona el repositorio en tu máquina local:
+Clone the repository to your local machine:
 
-<h3>Reglas del juego</h3>
+<h3>Game Rules</h3>
 
-El juego es para dos jugadores, representados por las piezas blancas y negras.
-Cada jugador se turna para realizar un movimiento.
-Durante su turno, un jugador selecciona una pieza para mover y luego ingresa las coordenadas de su posición actual y su posición deseada.
-Las piezas se mueven según las reglas estándar del ajedrez.
-El juego continúa hasta que un jugador logra jaque mate al rey del oponente.
+The game is for two players, represented by the white and black pieces.
+Each player takes turns to make a move.
+During their turn, a player selects a piece to move and then enters the coordinates of its current position and its desired position.
+Pieces move according to standard chess rules.
+The game continues until a player achieves checkmate on the opponent's king.
 
-<h3>Controles del juego</h3>
-Durante cada turno, el programa solicitará al jugador en turno que ingrese la pieza que desea mover y las coordenadas de movimiento.
+<h3>Game Controls</h3>
+During each turn, the program will prompt the current player to enter the piece they want to move and the movement coordinates.
 
-<h4>Esperamos que disfrutes jugando al ajedrez. ¡Buena suerte!      </h4>                                                                                                                  
+<h4>We hope you enjoy playing chess. Good luck!</h4>                                                                                                                
 
-https://github.com/Eloyac/Chess-on-terminal/assets/80268281/60257fd9-0280-496d-891b-ba3c80030bd0
+https://github.com/Eloyac/Chess-on-terminal/assets/80268281/56b3e140-4127-4198-b985-f63adab5a8f0
 
 
                                                                                                                               
