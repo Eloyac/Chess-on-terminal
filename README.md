@@ -9,11 +9,11 @@ Y8b  d8 88   88 88.     db   8D db   8D      `8b  d8' 88  V888         88    88.
 
 Este es un juego de ajedrez simple implementado en C++. El juego se ejecuta en la consola y permite a dos jugadores mover piezas en un tablero de ajedrez.
 
-Requisitos previos:
+<h3>Requisitos previos</h3>
 
 Asegúrate de tener un compilador de C++ instalado en tu sistema antes de ejecutar el juego.
 
-Instrucciones de instalación y ejecución
+<h3>Instrucciones de instalación y ejecución</h3>
 
 Clona el repositorio en tu máquina local:
 
@@ -25,10 +25,10 @@ Durante su turno, un jugador selecciona una pieza para mover y luego ingresa las
 Las piezas se mueven según las reglas estándar del ajedrez.
 El juego continúa hasta que un jugador logra jaque mate al rey del oponente.
 
-<h3>Controles del juego<h3>
+<h3>Controles del juego</h3>
 Durante cada turno, el programa solicitará al jugador en turno que ingrese la pieza que desea mover y las coordenadas de movimiento.
 
-Esperamos que disfrutes jugando al ajedrez. ¡Buena suerte!                                                                                                                             
+<h4>Esperamos que disfrutes jugando al ajedrez. ¡Buena suerte!      </h4>                                                                                                                       
                                                                                                                                           
                                                                                                                                           
                                                                                                                                           
