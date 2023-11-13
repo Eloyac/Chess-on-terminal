@@ -30,7 +30,9 @@ Durante cada turno, el programa solicitará al jugador en turno que ingrese la p
 
 <h4>Esperamos que disfrutes jugando al ajedrez. ¡Buena suerte!      </h4>                                                                                                                       
                                                                                                                                           
-                                                                                                                                          
+https://github.com/Eloyac/Chess-on-terminal/assets/80268281/49ea93f3-2277-4f84-ad17-9fb516905afd
+
+                                                                                                                              
                                                                                                                                           
                                                                                                                                           
                                                                                                                                           
