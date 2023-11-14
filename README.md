@@ -30,22 +30,4 @@ During each turn, the program will prompt the current player to enter the piece 
 
 <h4>We hope you enjoy playing chess. Good luck!</h4>                                                                                                                
 
-https://github.com/Eloyac/Chess-on-terminal/assets/80268281/bf547795-aa43-4f5d-972e-37c11561c80d
-
-
-                                                                                                                              
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
-                                                                                                                                          
+https://github.com/Eloyac/Chess-on-terminal/assets/80268281/ffcf3057-f28e-4b8e-b4c9-234b21f25a58
